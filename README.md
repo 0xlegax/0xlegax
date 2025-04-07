@@ -1,5 +1,3 @@
-#0xlegax
-
 Welcome! This is my Web3 security portfolio where I track all my professional progress in smart contract auditing, bug bounties, and competitions. I'm currently on a mission to become one of the best smart contract auditors in the space.
 
 ---
