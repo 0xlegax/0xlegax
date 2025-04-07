@@ -28,8 +28,8 @@ Welcome! This is my Web3 security portfolio where I track all my professional pr
 
 | # | Protocol/Client Name | Type         | Date       | Vulnerabilities Found | Notes                         |
 |---|----------------------|--------------|------------|------------------------|-------------------------------|
-| 1 | –                    | Full Audit   | –          | –                      | –                             |
-| 2 | –                    | Partial Review | –        | –                      | –                             |
+| 1 | –                    | -            | –          | –                      | –                             |
+| 2 | –                    | -            | –        | –                      | –                             |
 
 ---
 
@@ -37,7 +37,7 @@ Welcome! This is my Web3 security portfolio where I track all my professional pr
 
 | # | Platform     | Project Targeted   | Severity     | Reward     | Status     | Date       | Notes                        |
 |---|--------------|--------------------|--------------|------------|------------|------------|-----------------------------|
-| 1 | [ImmuneFi](https://immunefi.com)     | –                  | –            | –          | Submitted | –          | –                           |
+| 1 | [ImmuneFi](https://immunefi.com)     | –                  | –            | –          | -          | –          | –                           |
 | 2 | [Hats Finance](https://hats.finance) | –                  | –            | –          | –          | –          | –                           |
 
 ---
