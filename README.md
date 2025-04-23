@@ -1,6 +1,7 @@
 ### Hi.
 
-I'm **0xlegax**, an aspiring blockchain security developer with a deep interest in **zero-knowledge cryptography** and smart contract security. I'm currently exploring and building with **Solidity**, with a strong focus on the cryptographic underpinnings that drive Web3.
+Hi.
+I'm 0xlegax, an aspiring blockchain security researcher with a deep interest in zero-knowledge cryptography and smart contract security. I'm currently building with Solidity and learning Rust.
 
 While I'm not affiliated with any platforms just yet, I'm actively developing my skills and looking for ways to contribute to the ecosystem.
 
@@ -20,11 +21,10 @@ Whether it’s audits, security research, or experimental collabs—I'm always d
 
 ---
 
-## 🧠 Learnings & Side Projects
+## 🧠 Currently learning:
 
 | Project | Type | Progress | Link |
 |---------|------|----------|------|
 | Circom (Student) | ZK | In Progress | [learn.0xparc.org/circom](https://learn.0xparc.org/circom/) |
-| Smart Contract Hacking (Student) | Solidity | Done (April 2025) | [smartcontractshacking.com](https://smartcontractshacking.com/) |
 | Assembly and Formal Verification (Student) | Solidity | Done (April 2025) | [updraft.cyfrin.io](https://updraft.cyfrin.io/courses/formal-verification) |
 
