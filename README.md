@@ -25,6 +25,7 @@ Whether it’s audits, security research, or experimental collabs—I'm always d
 
 | Project | Type | Progress | Link |
 |---------|------|----------|------|
-| Circom (Student) | ZK | In Progress | [learn.0xparc.org/circom](https://learn.0xparc.org/circom/) |
-| Assembly and Formal Verification (Student) | Solidity | Done (April 2025) | [updraft.cyfrin.io](https://updraft.cyfrin.io/courses/formal-verification) |
+| Circom & Halo2 | ZK | In Progress | [learn.0xparc.org/circom](https://learn.0xparc.org/circom/) |
+| Assembly and Formal Verification | Solidity | Done (April 2025) | [updraft.cyfrin.io](https://updraft.cyfrin.io/courses/formal-verification) |
+| The Rust Programming Language | Rust | In Progress | [doc.rust.org](https://doc.rust-lang.org/book/) |
 
