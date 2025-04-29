@@ -20,12 +20,3 @@ Whether it’s audits, security research, or experimental collabs—I'm always d
 - 💼 LinkedIn: [0xlegax](https://www.linkedin.com/in/0xlegax-%E2%80%8E-78a4a02a3/)
 
 ---
-
-## 🧠 Currently learning:
-
-| Project | Type | Progress | Link |
-|---------|------|----------|------|
-| Circom & Halo2 | ZK | In Progress | [learn.0xparc.org/circom](https://learn.0xparc.org/circom/) |
-| Assembly and Formal Verification | Solidity | Done (April 2025) | [updraft.cyfrin.io](https://updraft.cyfrin.io/courses/formal-verification) |
-| The Rust Programming Language | Rust | In Progress | [doc.rust.org](https://doc.rust-lang.org/book/) |
-
