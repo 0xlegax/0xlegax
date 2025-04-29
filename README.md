@@ -6,7 +6,7 @@ I'm an aspiring blockchain security researcher with a passion for zero-knowledge
 
 ## Skills and Tech Stack
 - **Blockchain**: EVM, SVM, zkSync, Chainlink
-- **Languages**: JavaScript, Python, Solidity, Rust
+- **Languages**: JavaScript, Python, Solidity, Yul, Rust
 - **Tools**: Hardhat, Foundry, Certora, Circom, Halo2
 - **Interests**: Zero-knowledge proofs, cryptographic protocols, security audits
 
@@ -36,13 +36,6 @@ I'm always eager to connect with like-minded individuals and collaborate on exci
 ---
 
 ## Let's Collaborate!
-Whether it's **audits**, **security research**, or **experimental collaborations**, I'm always open to working on meaningful projects. Feel free to reach out, and let's build something amazing together!
-
-> *"The blockchain space needs more builders and fewer spectators. Let's make it secure and scalable!"*
-
----
-
-## Fun Fact
-I believe code is poetry, and every project is an opportunity to craft something elegant and impactful.
+Whether it's audits, security research, or experimental collaborations, I'm always open to working on meaningful projects. Feel free to reach out, and let's build something amazing together!
 
 ---
