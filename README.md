@@ -30,7 +30,7 @@ I'm always eager to connect with like-minded individuals and collaborate on exci
 - 💬 Discord: **0xlegax**
 - 🐦 Twitter: [**@0xlegax**](https://twitter.com/0xlegax)
 - 💼 LinkedIn: [**0xlegax**](https://www.linkedin.com/in/0xlegax-%E2%80%8E-78a4a02a3/)
-- 📫 Email: **legaxxx@proton.me**
+- 📫 Email: **[0xlegax@proton.me](mailto:0xlegax@proton.me)**
 
 ---
 
