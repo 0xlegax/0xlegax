@@ -14,7 +14,6 @@ I'm an aspiring blockchain security researcher with a passion for zero-knowledge
 
 ## Featured Projects
 Here are some of my notable projects:
-...
 > *More projects coming soon!*
 
 ---
