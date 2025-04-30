@@ -5,9 +5,9 @@ I'm an aspiring blockchain security researcher with a passion for zero-knowledge
 ---
 
 ## Skills and Tech Stack
-- **Blockchain**: EVM,zkSync, Chainlink
-- **Languages**: JavaScript, Python, Solidity, Yul
-- **Tools**: Hardhat, Foundry, Certora
+- **Blockchain**: EVM, zkSync, Chainlink
+- **Languages**: JavaScript, Python, Solidity, Yul, Huff
+- **Tools**: Hardhat, Foundry, Certora, Kontrol
 - **Interests**: Zero-knowledge proofs, cryptographic protocols, security audits
 
 ---
@@ -15,12 +15,6 @@ I'm an aspiring blockchain security researcher with a passion for zero-knowledge
 ## Featured Projects
 Here are some of my notable projects:
 > *More projects coming soon!*
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xlegax&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xlegax&theme=radical)
 
 ---
 
