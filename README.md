@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 0xlegax
+# 👋 Hi, I'm Legax
 
 ## Connect with Me
 I'm always eager to connect with like-minded individuals and collaborate on exciting projects. Reach out to me here:
