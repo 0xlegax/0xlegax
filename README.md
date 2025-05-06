@@ -4,9 +4,9 @@
 I'm always eager to connect with like-minded individuals and collaborate on exciting projects. Reach out to me here:
 
 - 💬 Discord: **0xlegax**
-- 🐦 Twitter: [**@0xlegax**](https://twitter.com/0xlegax)
-- 💼 LinkedIn: [**0xlegax**](https://www.linkedin.com/in/0xlegax-%E2%80%8E-78a4a02a3/)
-- 📫 Email: **[0xlegax@proton.me](mailto:0xlegax@proton.me)**
+- 🐦 Twitter: [**@noah_favreau**](https://twitter.com/0noah_favreau)
+- 💼 LinkedIn: [**Noah Favreau**](www.linkedin.com/in/noah-favreau-78a4a02a3)
+- 📫 Email: **[noahjamesfavreau@gmail.com](mailto:noahjamesfavreau@gmail.com)**
 
 ---
 
