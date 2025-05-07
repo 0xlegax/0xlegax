@@ -69,6 +69,7 @@ I'm a passionate developer with expertise in:
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
   ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+  ![Ultralytics](https://img.shields.io/badge/Ultralytics-00A1E0?style=for-the-badge&logo=yolo&logoColor=white)
 
 </div>
 
