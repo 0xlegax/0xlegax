@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/Hardhat-F3C614?style=for-the-badge&logo=ethereum&logoColor=black" alt="Hardhat" />
   <img src="https://img.shields.io/badge/Certora-000000?style=for-the-badge&logo=ethereum&logoColor=white" alt="Certora" />
   <img src="https://img.shields.io/badge/Kontrol-333333?style=for-the-badge&logo=ethereum&logoColor=white" alt="Kontrol" />
-  <img src="https://img.shields.io/badge/Metamask-ED6727?style=for-the-badge&logo=fox&logoColor=white" alt="Metamask" />
+  <img src="https://img.shields.io/badge/Metamask-ED6727?style=for-the-badge&logo=metamask&logoColor=white" alt="Metamask" />
 </div>
 
 ### <div align="center">🔒 Zero-Knowledge Proofs</div>
