@@ -11,13 +11,14 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm a passionate developer with expertise across multiple domains:
-
-- 🚀 Building innovative tech solutions that solve real-world problems
-- 🔗 Exploring blockchain technologies and smart contract development
+I'm a passionate developer with expertise in:
+- 🚀 Building innovative tech solutions for real-world problems
+- 🔗 Exploring blockchain technologies and smart contracts
 - 🤖 Implementing machine learning and computer vision applications
-- 🌐 Creating responsive and interactive web applications
-- 🤝 Open to collaboration on meaningful projects
+
+### What I'm up to:
+- 🔭 Currently working on an AI app that converts PDFs, Word docs, and PowerPoint slides into quizzes
+- 🤝 Looking for teammates or mentors for fun tech projects (hit me up!)
 
 ## 🛠️ Tech Stack
 
