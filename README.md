@@ -132,8 +132,8 @@ I'm always looking for new challenges and collaborations. Feel free to reach out
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
   &nbsp;
-  <a href="https://github.com/sponsors">
-    <img src="https://img.shields.io/badge/Sponsor_on_GitHub-30363D?style=for-the-badge&logo=github-sponsors&logoColor=#white" alt="GitHub Sponsors" />
+<a href="https://etherscan.io/address/0x1053C9c0FBD7ebBAa14b67f7C6869A5067c5f0B6">
+    <img src="https://img.shields.io/badge/ETH-0x1053C9c0FBD7ebBAa14b67f7C6869A5067c5f0B6-1C1C1C?style=for-the-badge&logo=ethereum&logoColor=8A92B2" alt="ETH Donation Address" />
   </a>
   
   <br><br>
