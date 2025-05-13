@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=58A6FF&size=24&center=true&vCenter=true&width=500&height=70&lines=Blockchain+Developer;Machine+Learning+Engineer;Full+Stack+Developer;Smart+Contract+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=58A6FF&size=24&center=true&vCenter=true&width=500&height=70&lines=Blockchain+Developer;Machine+Learning+Engineer;Smart+Contract+Specialist" alt="Typing SVG" />
 </div>
 
 <hr>
